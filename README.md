@@ -7,7 +7,7 @@
  [_] square brackets
  ( ) parentheses
  
- ![Science_KKU](Science_KKU)
+ ![Science_KKU](Science_KKU.png)
  
  
  อธิบายการใช้งาน Github =เพื่อช่วยให้ผู้ใช้สามารถพัฒนาโค้ดร่วมกันได้
