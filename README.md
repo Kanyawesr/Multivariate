@@ -4,11 +4,10 @@
 
  .md => Markdown
  
-  square brackets
- 
+ [_] square brackets
  ( ) parentheses
  
- ![kku_logo].(
+ ![kku_logo](Th_color)
  
  
  อธิบายการใช้งาน Github =เพื่อช่วยให้ผู้ใช้สามารถพัฒนาโค้ดร่วมกันได้
