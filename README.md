@@ -24,8 +24,13 @@ Google colab
 วิธีเซฟไฟล์จาก Google colab ลงใน Github
 
   1.เมื่อเราสร้าง Projects Github เสร็จแล้วให้ไปที่ Google colab แล้วเลือก File
+  
   2.หลังจากนั้นเลือก Save a copy in Github
+  
   3.จากนั้นเลือก Projects ที่ต้องการจะเซฟ
+  
   5.ระบุเวอร์ชั่นของเราที่ commit message
+  
   6.ติ๊กที่ช่อง Include a link to Colaboratory
+  
   7.เมื่อเสร็จสิ้นกด OK
